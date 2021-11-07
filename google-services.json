@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "165268556354",
+    "project_id": "ionic-chat-mtb",
+    "storage_bucket": "ionic-chat-mtb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165268556354:android:4c3bdd141862f0cd6f7bdb",
+        "android_client_info": {
+          "package_name": "com.mythemebox.ionicchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165268556354-8qfcd9200r36suphjm5gccn56kr8211m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mythemebox.ionicchat",
+            "certificate_hash": "f60def92eb11e9b952905a9d29b163e399ab623d"
+          }
+        },
+        {
+          "client_id": "165268556354-f30e4848s9un2lmmsefgi7gfke4s5n09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0oXb7KpcZofuBuPHRm9rp93sQ9Pr7S0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165268556354-f30e4848s9un2lmmsefgi7gfke4s5n09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

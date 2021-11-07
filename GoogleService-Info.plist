@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>165268556354-5o72brj5g4riaap2choulg986igsmd9m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.165268556354-5o72brj5g4riaap2choulg986igsmd9m</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>165268556354-8qfcd9200r36suphjm5gccn56kr8211m.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDo2lS-wTQVjAk6y5PtyAw-4JhUSYhtCKM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>165268556354</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mythemebox.ionicchat</string>
+	<key>PROJECT_ID</key>
+	<string>ionic-chat-mtb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ionic-chat-mtb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:165268556354:ios:db30a079ff6cb6b86f7bdb</string>
+</dict>
+</plist>
